@@ -2,4 +2,5 @@
 #Caesar Cipher encoding
 
 
-
+userInput = input("enter data to encode: ")
+ROT = int(input("How many rotations to use i.e 3 "))
