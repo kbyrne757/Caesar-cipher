@@ -3,4 +3,6 @@
 
 
 userInput = input("enter data to encode: ")
+userInput = userInput.lower()
 ROT = int(input("How many rotations to use i.e 3 "))
+
