@@ -2,7 +2,6 @@
 #Caesar Cipher encoding
 
 import string
-from time import sleep
 
 alphabet = string.ascii_lowercase
 
